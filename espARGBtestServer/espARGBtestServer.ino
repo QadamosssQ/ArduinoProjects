@@ -6,8 +6,8 @@
 #define NUM_LEDS    3
 
 
-const char* ssid     = "Adamoss WiFi";
-const char* password = "00951221202611";
+const char* ssid     = "";
+const char* password = "";
 
 CRGB leds[NUM_LEDS];
 
